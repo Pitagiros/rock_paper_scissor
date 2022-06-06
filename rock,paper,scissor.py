@@ -52,6 +52,6 @@ print("The score is", User_wins, "-", Pc_wins)
 if User_wins > Pc_wins:
     print("You win!")
 elif User_wins < Pc_wins:
-    print("You lose!")
+    print("You los!")
 else:
     print("Its a tie!")
